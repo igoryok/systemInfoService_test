@@ -1,4 +1,4 @@
-App strting:
+App starting:
 
 1) Clone the project.
 2) Open with i.e WebStorm ide
